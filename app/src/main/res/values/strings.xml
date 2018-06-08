@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudentManagementSystem</string>
+    <string name="title_activity_adding">adding</string>
+    <string name="spinner_title">spinner_title</string>
+</resources>
